@@ -127,7 +127,7 @@ define('STRIPE_CANCEL_URL', home_url('/org-dashboard/'));
 - Ensure all transactions are done through HTTPS.     
 ---
 
-## Live Links
+## Live Link
 Resource License System: [https://workhealthandfitnessrecord.com.au/licensing-page/](https://workhealthandfitnessrecord.com.au/licensing-page/)
 
 ---
