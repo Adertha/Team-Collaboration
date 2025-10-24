@@ -95,7 +95,7 @@ License-Registration-System/
 
 ---
 
-## Setup & Configuration
+## Setup and Configuration
 
 ### 1. Add Code to Your WordPress Theme
 - Create WordPress pages and insert the provided HTML or shortcodes where required.  
@@ -124,22 +124,11 @@ define('STRIPE_CANCEL_URL', home_url('/org-dashboard/'));
 
 ### Step 3: Enable Real-Time Payments  
 - Use **live account keys** to make the payment system work in real-time.  
-- Ensure all transactions are done through HTTPS.  
-- PCI DSS compliance and security are automatically managed by Stripe Checkout.  
-- Disable free downloads until payment confirmation to protect intellectual property.  
-
+- Ensure all transactions are done through HTTPS.     
 ---
 
 ## Live Links
-1. Home / Licensing Info — [https://workhealthandfitnessrecord.com.au/licensing-page/](https://workhealthandfitnessrecord.com.au/licensing-page/)  
-2. Resource Display — [https://workhealthandfitnessrecord.com.au/program-page/](https://workhealthandfitnessrecord.com.au/program-page/)  
-3. Registration Form — [https://workhealthandfitnessrecord.com.au/542-2/](https://workhealthandfitnessrecord.com.au/542-2/)  
-4. Registration Success — [https://workhealthandfitnessrecord.com.au/page-to-show-success-message-after-user-registration-and-link-it-to-whfr-page/](https://workhealthandfitnessrecord.com.au/page-to-show-success-message-after-user-registration-and-link-it-to-whfr-page/)  
-5. Admin Invoice Dashboard — [https://workhealthandfitnessrecord.com.au/admin-invoice-page/](https://workhealthandfitnessrecord.com.au/admin-invoice-page/)  
-6. User Login — [https://workhealthandfitnessrecord.com.au/user-login-registration/](https://workhealthandfitnessrecord.com.au/user-login-registration/)  
-7. Organisation Dashboard — [https://workhealthandfitnessrecord.com.au/org-dashboard/](https://workhealthandfitnessrecord.com.au/org-dashboard/)  
-8. Payment Success — [https://workhealthandfitnessrecord.com.au/completed-payment/](https://workhealthandfitnessrecord.com.au/completed-payment/)  
-9. Download Access — [https://workhealthandfitnessrecord.com.au/program-copy/](https://workhealthandfitnessrecord.com.au/program-copy/)  
+Resource License System: [https://workhealthandfitnessrecord.com.au/licensing-page/](https://workhealthandfitnessrecord.com.au/licensing-page/)
 
 ---
 
